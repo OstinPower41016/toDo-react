@@ -1,0 +1,9 @@
+.itemAddForm {
+  margin-top: 10px;
+
+  & button {
+    flex-shrink: 0;
+    margin-left: 5px;
+  }
+}
+
